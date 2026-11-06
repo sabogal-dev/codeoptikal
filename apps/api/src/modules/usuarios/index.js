@@ -1,0 +1,1 @@
+export { default as usuariosRoutes } from './usuarios.routes.js';

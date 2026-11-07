@@ -122,7 +122,7 @@ src/
 ├── app/                  # router, providers, layout general
 ├── shared/               # UI genérica (botones), cliente HTTP, hooks comunes
 └── features/
-    ├── auth/
+    ├── login/
     ├── gastos/
     └── visitas/
 ```
